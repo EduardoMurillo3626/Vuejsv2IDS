@@ -1,0 +1,29 @@
+[
+    {
+        "id": 1,
+        "name": "Luis",
+        "username": "Eddy",
+        "email": "luis@hotmail.com",
+        "phone": "6121727367",
+        "website": "luis.com",
+        "password": "password123"
+    },
+    {
+        "id": 2,
+        "name": "Diana",
+        "username": "Di",
+        "email": "diana@hotmail.com",
+        "phone": "6151737267",
+        "website": "diana.com",
+        "password": "password123"
+    },
+    {
+        "id": 3,
+        "name": "Angel",
+        "username": "Tecochi",
+        "email": "angel@hotmail.com",
+        "phone": "612456397",
+        "website": "angel.com",
+        "password": "password123"
+    }
+]
